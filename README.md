@@ -1,6 +1,6 @@
 # Java Full Stack Developer Roadmap
 
-This repository documents my journey to becoming a Java Full Stack Developer.
+**This repository documents my journey to becoming a Java Full Stack Developer.**
 
 It includes:
 
